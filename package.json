@@ -1,0 +1,19 @@
+{
+  "name": "currencyconverter",
+  "version": "1.0.0",
+  "description": "ALC currency converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tariak2/tk_currency_converter.git"
+  },
+  "author": "Gloria Uloaku Okoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tariak2/tk_currency_converter/issues"
+  },
+  "homepage": "https://github.com/tariak2/tk_currency_converter#readme"
+}
